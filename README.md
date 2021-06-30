@@ -25,7 +25,7 @@ I was able to derive the following insights:
   * People with low age index score, are at lower risk of needing acute care when infected but people with high age index score are at higher risk of needing acute care when infected.
 # Future Work
 # Executive Summary
-[Link to executive summary file] https://github.com/adejumobiesther/Nigeria-COVID-19-Data-Analysis-Using-Python/blob/main/Executive_Summary1.docx
+[Link to executive summary file]https://github.com/adejumobiesther/Nigeria-COVID-19-Data-Analysis-Using-Python/blob/main/Executive_Summary1.docx
 
 
 
