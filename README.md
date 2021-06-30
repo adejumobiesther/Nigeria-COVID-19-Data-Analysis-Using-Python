@@ -9,8 +9,9 @@ In this project, I have employed data science & analytics skills to collect data
 * The first thing I did was to collect data needed for analysis, using python's beautiful soup I was able to scrape data from NCDC covid-19 official website.
 * I downloaded data from The Johns Hopkins University Center for Systems Science and Engineering repository, they publish daily data on confirmed, death and recovered cases across different countries in their repository.
 * I also made use of the Nigeria Community Vulnerability Index data, Real Domestic Gross Product Data, and the State Budget Data.
+* After data collection, I cleaned and performed exploratory analysis on the data.
 # Insights
-After data collection, I cleaned the data, performed exploratory analysis on the data and I was able to derive the following insights:
+I was able to derive the following insights:
   * The top ten states in terms of confirmed covid-19 cases by Laboratory test are: Lagos, FCT, Kaduna, Plateau, Rivers, Oyo, Edo, Ogun, Kano, Ondo.
   * The top ten states with the highest number of discharged covid-19 patients are: Lagos, FCT, Kaduna, Plateau, Rivers, Oyo, Edo, Ogun, Kano, Ondo.
   * The top ten states with the highest number of deaths are: Lagos, Edo, FCT, Oyo, Kano, Rivers, Delta, Kaduna, Ondo, Plateau.
@@ -24,6 +25,7 @@ After data collection, I cleaned the data, performed exploratory analysis on the
   * People with low age index score, are at lower risk of needing acute care when infected but people with high age index score are at higher risk of needing acute care when infected.
 # Future Work
 # Executive Summary
+Link to executive summary file
 
 
 
