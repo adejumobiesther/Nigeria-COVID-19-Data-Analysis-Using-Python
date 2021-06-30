@@ -14,9 +14,13 @@ In this project, I have employed data science & analytics skills to collect data
   * The top ten states with the highest number of discharged covid-19 patients are: Lagos, FCT, Kaduna, Plateau, Rivers, Oyo, Edo, Ogun, Kano, Ondo.
   * The top ten states with the highest number of deaths are: Lagos, Edo, FCT, Oyo, Kano, Rivers, Delta, Kaduna, Ondo, Plateau.
   * The highest number of confirmed cases recorded in Nigeria was on the 23rd of January, 2021. On this day, Nigeria recorded 2,464 covid-19 cases.
+  * The highest number of recovered cases recorded in Nigeria was on the 4th of October, 2020. On this day, 11,188 patients recovered from covid-19.
+  * Nigeria recorded the highest number of deaths on the 16th of June, 2020. 31 covid-19 patients lost their lives.
   * After merging NCDC data with Nigeria Community Vulnerability Index data, I was able to detect a negative relationship between number of cases confirmed in Lab and overall CCVI Index that is the higher the number of confirmed cases the lower the overall community vulnerability index in the states except in FCT.
-  * There is also a direct relationship between population density and number of cases confirmed in the lab, the higher the population density the higher the number of cases confirmed in the laboratory.
-  * 
+  * There is a direct relationship between population density and number of cases confirmed in the lab, the higher the population density the higher the number of cases confirmed in the laboratory.
+  * There is also a negative correlation between Age Index Score and number of cases confirmed in Lab with Age Index Score and Number of Deaths that is when we have a low Age index score there are more confirmed cases and more number of deaths and vice versa.
+  * Enugu, Abia, Imo are the first 3 states with the highest number of people with Acute IHR that is people that got infected and are expected to require acute care, these 3 states are also seen to have a low health index score, but the number of deaths in these three states are low, but Lagos with a very high number of deaths has a low health index score and a high percentage of people who got infected and are expected to require acute care. This implies that despite the good health system in Lagos, more people still die.
+  * People with low age index score, are at lower risk of needing acute care when infected but people with high age index score are at higher risk of needing acute care when infected.
 
 
 
