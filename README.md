@@ -10,7 +10,13 @@ In this project, I have employed data science & analytics skills to collect data
 * I downloaded data from The Johns Hopkins University Center for Systems Science and Engineering repository, they publish daily data on confirmed, death and recovered cases across different countries in their repository.
 * I also made use of the Nigeria Community Vulnerability Index data, Real Domestic Gross Product Data, and the State Budget Data.
 * After data collection, I cleaned the data, performed exploratory analysis on the data and I was able to derive the following insights:
-  **
+  * The top ten states in terms of confirmed covid-19 cases by Laboratory test are: Lagos, FCT, Kaduna, Plateau, Rivers, Oyo, Edo, Ogun, Kano, Ondo.
+  * The top ten states with the highest number of discharged covid-19 patients are: Lagos, FCT, Kaduna, Plateau, Rivers, Oyo, Edo, Ogun, Kano, Ondo.
+  * The top ten states with the highest number of deaths are: Lagos, Edo, FCT, Oyo, Kano, Rivers, Delta, Kaduna, Ondo, Plateau.
+  * The highest number of confirmed cases recorded in Nigeria was on the 23rd of January, 2021. On this day, Nigeria recorded 2,464 covid-19 cases.
+  * After merging NCDC data with Nigeria Community Vulnerability Index data, I was able to detect a negative relationship between number of cases confirmed in Lab and overall CCVI Index that is the higher the number of confirmed cases the lower the overall community vulnerability index in the states except in FCT.
+  * There is also a direct relationship between population density and number of cases confirmed in the lab, the higher the population density the higher the number of cases confirmed in the laboratory.
+  * 
 
 
 
