@@ -23,7 +23,10 @@ I was able to derive the following insights:
   * There is also a negative correlation between Age Index Score and number of cases confirmed in Lab with Age Index Score and Number of Deaths that is when we have a low Age index score there are more confirmed cases and more number of deaths and vice versa.
   * Enugu, Abia, Imo are the first 3 states with the highest number of people with Acute IHR that is people that got infected and are expected to require acute care, these 3 states are also seen to have a low health index score, but the number of deaths in these three states are low, but Lagos with a very high number of deaths has a low health index score and a high percentage of people who got infected and are expected to require acute care. This implies that despite the good health system in Lagos, more people still die.
   * People with low age index score, are at lower risk of needing acute care when infected but people with high age index score are at higher risk of needing acute care when infected.
-# Future Work
+  * There is a negative relationship between Number of Cases Confirmed in Lab and Socio-Economic Index Score.
+  * There is a direct relationship between Epidemiological Index Score and Number of Deaths with Epidemiological Index Score and Number of Patients discharged.
+  * There is a slight negative relationship between Fragility Index Score and Number of Cases Confirmed in Lab.
+  * The GDP of quarter 1 and quarter 2 of each year are always lesser than the GDP of quarter 3 and 4. 2020 had the lowest GDP for quarter 2 compared to quarter 2 of previous years due to the impact of covid 19 on the economy.
 # Executive Summary
 [Link to executive summary file](https://github.com/adejumobiesther/Nigeria-COVID-19-Data-Analysis-Using-Python/blob/main/Executive_Summary1.docx)
 
